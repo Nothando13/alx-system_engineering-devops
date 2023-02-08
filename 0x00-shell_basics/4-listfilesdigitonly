@@ -1,0 +1,12 @@
+total 36
+-rwxr--r-- 1 root root 16 Feb  8 04:36 0-current_working_directory
+-rw-r--r-- 1 root root 18 Feb  8 06:06 0x00-shell_basics
+-rwxr--r-- 1 root root 15 Feb  8 04:48 1-listit
+-rwxr--r-- 1 root root 15 Feb  8 05:57 2-bring_me_home
+-rwxr--r-- 1 root root 18 Feb  8 06:22 3-listfiles
+-rw-r--r-- 1 root root 12 Feb  8 06:16 3-litfiles
+-rw-r--r-- 1 root root  0 Feb  8 07:04 4-listfilesdigitonly
+-rwxr--r-- 1 root root 19 Feb  8 06:56 4-listmorefiles
+-rw-r--r-- 1 root root  0 Feb  8 07:03 5-listfilesdigitonly
+-rw-r--r-- 1 root root 12 Feb  8 05:12 bring_me_home
+-rw-r--r-- 1 root root 16 Feb  8 04:39 README.md
