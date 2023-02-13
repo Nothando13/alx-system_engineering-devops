@@ -1,1 +1,1 @@
-This is a read me file for shell redirections
+This is shell_redirections's read me file
