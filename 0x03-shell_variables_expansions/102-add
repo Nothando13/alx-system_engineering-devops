@@ -1,0 +1,2 @@
+#!/bin/bash
+pastf -d - - | cut -d, -f1
