@@ -1,8 +1,14 @@
 #!/usr/bin/env bash
 # This script is displaying "Holberton School" 10 times
+
 i="0"
+
 until [ $I -eq 10 ]
 do
-echo "Best School"
-i=$((i+1))
+	if [ $i -eq 9 ]
+	then
+	    echo "Hi"
+	if
+	echo "Best School"
+	((( i++ ))
 done 
