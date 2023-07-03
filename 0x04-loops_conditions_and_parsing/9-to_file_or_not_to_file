@@ -1,16 +1,17 @@
 #!/uar/bin/env bash
-# Bash script that gives you information about the  holbertonschool file.
+# displays information about the school file.
 
-if [ -e "holbertonschool" ]
+FILE="SCHOOL"
+
+if [ -e "$FILE" ]
 then
   echo "school file exists"
-  if [ -s "holbertonschool" ]
+  if [ ! -s "$FILE" ]
   then
-    echo "school file is empty"
+      echo "school file is empty"
   else
-    echo "school file is empty"
+      echo "school file is empty"
   fi
-
   if [ -f "holbertonschool" ]
   then
     echo "school file is a regular file"
